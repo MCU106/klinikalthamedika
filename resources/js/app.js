@@ -1,3 +1,3 @@
-require('./bootstrap');
+import './bootstrap';
 
-require('./custom');
+import './custom';
